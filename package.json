@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-assert-is-same-kind-data-type-cast",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Determine if an array data type can be safely cast to, or is of the same kind as, another array data type.",
   "license": "Apache-2.0",
   "author": {
