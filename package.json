@@ -18,9 +18,7 @@
     "benchmark": "./benchmark",
     "doc": "./docs",
     "example": "./examples",
-    "include": "./include",
     "lib": "./lib",
-    "src": "./src",
     "test": "./test"
   },
   "types": "./docs/types",
@@ -42,7 +40,7 @@
     "@stdlib/array-same-kind-casts": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/array-cartesian-square": "github:stdlib-js/array-cartesian-square#main",
+    "@stdlib/array-cartesian-square": "^0.1.0",
     "@stdlib/array-dtypes": "^0.1.0",
     "@stdlib/assert-is-boolean": "^0.1.1",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
