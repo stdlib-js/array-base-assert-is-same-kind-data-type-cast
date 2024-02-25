@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSameKindCast from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-same-kind-data-type-cast@esm/index.mjs';
+import isSameKindCast from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-same-kind-data-type-cast@v0.3.1-esm/index.mjs';
 ```
 
 #### isSameKindCast( from, to )
@@ -95,7 +95,7 @@ bool = isSameKindCast( 'uint16', 'int16' );
 
 import cartesianSquare from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-cartesian-square@esm/index.mjs';
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@esm/index.mjs';
-import isSameKindCast from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-same-kind-data-type-cast@esm/index.mjs';
+import isSameKindCast from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-same-kind-data-type-cast@v0.3.1-esm/index.mjs';
 
 // Generate a list of dtype pairs:
 var dt = cartesianSquare( dtypes() );
